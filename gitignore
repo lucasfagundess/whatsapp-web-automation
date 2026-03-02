@@ -1,0 +1,15 @@
+# Ambientes virtuais
+venv/
+.venv/
+
+# Dados de sessão do Chrome (Login do WhatsApp)
+chrome-data/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
