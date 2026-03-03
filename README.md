@@ -58,12 +58,3 @@ bot.close()
 Este código foi desenvolvido para fins de estudo e automação de notificações. O uso para disparos em massa (spam) pode resultar no banimento da conta. Utilize com responsabilidade.
 
 ---
-
-### O que fazer agora:
-1. **No VS Code:** Apague tudo o que está no seu `README.md` e cole esse texto acima. Salve o arquivo.
-2. **A imagem:** Salve o print do seu código ou o diagrama com o nome `arquitetura.png` na pasta do projeto.
-3. **Suba as alterações:**
-   ```bash
-   git add .
-   git commit -m "docs: finaliza readme completo com exemplos e arquitetura"
-   git push
